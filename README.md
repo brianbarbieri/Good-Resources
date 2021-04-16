@@ -15,7 +15,7 @@ The following READ.md is a list of mostly youtube resources that were not only i
 </details>
 
 ### Web development
-<details><summaryPython Flask Tutorial: Full-Featured Web App Part 1 - Getting Started</summary>
+<details><summary>Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started</summary>
   
 [![web1](http://img.youtube.com/vi/MwZwr5Tvyxo/0.jpg)](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH "Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started")
 </details>

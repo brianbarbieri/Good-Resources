@@ -9,9 +9,13 @@ The following READ.md is a list of mostly youtube resources that were not only i
 </details>
 
 ### Speeding up code / Cython
+<details><summary>Cython: Blend the Best of Python and C++ | SciPy 2015 Tutorial | Kurt Smith</summary>
+  
+[![speed1](http://img.youtube.com/vi/gMvkiQ-gOW8/0.jpg)](https://www.youtube.com/watch?v=gMvkiQ-gOW8 "Cython: Blend the Best of Python and C++ | SciPy 2015 Tutorial | Kurt Smith")
+</details>
 <details><summary>Stefan Behnel - Get up to speed with Cython 3.0</summary>
   
-[![speed1](http://img.youtube.com/vi/lxh4lsvEBhI/0.jpg)](https://www.youtube.com/watch?v=lxh4lsvEBhI "Stefan Behnel - Get up to speed with Cython 3.0")
+[![speed2](http://img.youtube.com/vi/lxh4lsvEBhI/0.jpg)](https://www.youtube.com/watch?v=lxh4lsvEBhI "Stefan Behnel - Get up to speed with Cython 3.0")
 </details>
 
 ### Web development

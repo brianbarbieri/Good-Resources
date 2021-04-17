@@ -24,7 +24,13 @@ The following READ.md is a list of mostly youtube resources that were not only i
 [![web1](http://img.youtube.com/vi/MwZwr5Tvyxo/0.jpg)](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH "Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started")
 </details>
 
-### Misc
+### Machine learning / Data science
+
+<details><summary>Andrej Karpathy's blog</summary>
+  
+[Overview of his blog](karpathy.github.io "Andrej Karpathy blog"), especially his [recipe for training neural networks](http://karpathy.github.io/2019/04/25/recipe/ "A Recipe for Training Neural Networks") is useful.
+</details>
+
 <details><summary>Data Science is Software | SciPy 2016 Tutorial | Peter Bull & Isaac Slavitt</summary>
   
 [![misc1](http://img.youtube.com/vi/EKUy0TSLg04/0.jpg)](www.youtube.com/watch?v=EKUy0TSLg04 "Data Science is Software | SciPy 2016 Tutorial | Peter Bull & Isaac Slavitt")

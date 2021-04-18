@@ -31,7 +31,12 @@ The following READ.md is a list of mostly youtube resources that were not only i
 [Overview of his blog](karpathy.github.io "Andrej Karpathy blog"), especially his [recipe for training neural networks](http://karpathy.github.io/2019/04/25/recipe/ "A Recipe for Training Neural Networks") is useful.
 </details>
 
+<details><summary>Machine Learning Explainability</summary>
+  
+[Some great Kaggle notebooks on how to explain the behavoir of your model.](https://www.kaggle.com/learn/machine-learning-explainability)
+</details>
+
 <details><summary>Data Science is Software | SciPy 2016 Tutorial | Peter Bull & Isaac Slavitt</summary>
   
-[![misc1](http://img.youtube.com/vi/EKUy0TSLg04/0.jpg)](www.youtube.com/watch?v=EKUy0TSLg04 "Data Science is Software | SciPy 2016 Tutorial | Peter Bull & Isaac Slavitt")
+[![Data science software](http://img.youtube.com/vi/EKUy0TSLg04/0.jpg)](www.youtube.com/watch?v=EKUy0TSLg04 "Data Science is Software | SciPy 2016 Tutorial | Peter Bull & Isaac Slavitt")
 </details>

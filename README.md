@@ -40,3 +40,9 @@ The following READ.md is a list of mostly youtube resources that were not only i
   
 [![Data science software](http://img.youtube.com/vi/EKUy0TSLg04/0.jpg)](www.youtube.com/watch?v=EKUy0TSLg04 "Data Science is Software | SciPy 2016 Tutorial | Peter Bull & Isaac Slavitt")
 </details>
+
+
+<details><summary>Machine Learning Yearning</summary>
+  
+[Machine Learning Yearning by Andrew NG](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf)
+</details>

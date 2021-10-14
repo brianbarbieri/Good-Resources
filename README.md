@@ -46,3 +46,10 @@ The following READ.md is a list of mostly youtube resources that were not only i
   
 [Machine Learning Yearning by Andrew NG](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf)
 </details>
+
+<details><summary>Xarray: Multidimensional array package</summary>
+  
+[![xarrray1](http://img.youtube.com/vi/X0pAhJgySxk/0.jpg)](https://www.youtube.com/watch?v=X0pAhJgySxk "20 minute introduction to this package")
+[![xarrray2](http://img.youtube.com/vi/Ss4ryKukhi4/0.jpg)](https://www.youtube.com/watch?v=Ss4ryKukhi4 "Long tutorial about Xarray (part 1)")
+[![xarrray3](http://img.youtube.com/vi/2H_4drBwORY/0.jpg)](https://www.youtube.com/watch?v=2H_4drBwORY "Long tutorial about Xarray (part 2)")
+</details>

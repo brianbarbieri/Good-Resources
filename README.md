@@ -41,6 +41,12 @@ The following READ.md is a list of mostly youtube resources that were not only i
 [![Data science software](http://img.youtube.com/vi/EKUy0TSLg04/0.jpg)](www.youtube.com/watch?v=EKUy0TSLg04 "Data Science is Software | SciPy 2016 Tutorial | Peter Bull & Isaac Slavitt")
 </details>
 
+<details><summary>Apache Airflow</summary>
+  
+[![web1](http://img.youtube.com/vi/AHMm1wfGuHE/0.jpg)](https://www.youtube.com/watch?v=AHMm1wfGuHE&list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2 "Apache Airflow tutorial")
+</details>
+
+
 
 <details><summary>Machine Learning Yearning</summary>
   
